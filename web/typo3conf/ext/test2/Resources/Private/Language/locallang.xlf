@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2018-01-22T17:50:51Z" product-name="test2">
+		<header/>
+		<body>
+			<trans-unit id="tx_test2_domain_model_order">
+				<source>Order</source>
+			</trans-unit>
+			<trans-unit id="tx_test2_domain_model_order.id">
+				<source>Id</source>
+			</trans-unit>
+			<trans-unit id="tx_test2_domain_model_order.custname">
+				<source>Custname</source>
+			</trans-unit>
+			<trans-unit id="tx_test2_domain_model_order.dishes">
+				<source>Dishes</source>
+			</trans-unit>
+			<trans-unit id="tx_test2_domain_model_dishes">
+				<source>Dishes</source>
+			</trans-unit>
+			<trans-unit id="tx_test2_domain_model_dishes.dishtype">
+				<source>Dishtype</source>
+			</trans-unit>
+			<trans-unit id="tx_test2_domain_model_dishes.quantity">
+				<source>Quantity</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

@@ -1,0 +1,14 @@
+{
+    "name": "test2/test2",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^8.7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Test2\\Test2\\": "Classes"
+        }
+    }
+}
